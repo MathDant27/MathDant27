@@ -32,4 +32,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
-![Snake Animation](https://github.com/MathDant27/MathDant27/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MathDant27/MathDant27/blob/output/github-contribution-grid-snake.svg)
