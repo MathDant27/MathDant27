@@ -17,12 +17,14 @@
 <a href="https://www.linkedin.com/in/matheus-martins-9b5403199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-
+ ### Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-00000F?style=for-the-badge&logo=javascript&labelColor=00000F)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-00000F?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=00000F)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-00000F?style=for-the-badge&logo=react&labelColor=00000F)&nbsp;
+![Php](https://img.shields.io/badge/-php-00000F?style=for-the-badge&logo=php&logoColor=purple&labelColor=00000F)&nbsp; 
+![C#](https://img.shields.io/badge/C%23-00000F?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ![](https://komarev.com/ghpvc/?username=MathDant27&color=00BFFF)
 
