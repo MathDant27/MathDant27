@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HI!,+My+name+is+Matheus;I'm+24+years+old;I'm+from+Brazil;I+Graduated+IT+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MathDant27&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -18,13 +17,14 @@
  </div>
 
  ### Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-00000F?style=for-the-badge&logo=javascript&labelColor=00000F)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-00000F?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=00000F)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-33CC33?style=for-the-badge)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-00000F?style=for-the-badge&logo=react&labelColor=00000F)&nbsp;
 ![Php](https://img.shields.io/badge/-php-00000F?style=for-the-badge&logo=php&logoColor=purple&labelColor=00000F)&nbsp; 
-![C#](https://img.shields.io/badge/C%23-00000F?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)&nbsp;
 
 ![](https://komarev.com/ghpvc/?username=MathDant27&color=00BFFF)
 
