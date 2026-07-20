@@ -56,12 +56,6 @@ Software Engineer focused on web systems, automation, and IT infrastructure. I w
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathDant27&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MathDant27&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MathDant27&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathDant27&theme=github_dark" width="32%"/>
-</div>
-
 <br/>
 
 <div align="center">
