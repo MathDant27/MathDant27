@@ -48,20 +48,5 @@ Software Engineer focused on web systems, automation, and IT infrastructure. I w
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathDant27&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MathDant27&theme=dark&background=0d1117&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=888888&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
